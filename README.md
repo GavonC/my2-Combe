@@ -9,3 +9,5 @@ I can do whatever I want in my bed be it sleep, scroll on my phone, or watch TV.
 - Popcorn
 - Eggs and bacon
 - Chips
+
+** [MyStats](MyStats.md) **

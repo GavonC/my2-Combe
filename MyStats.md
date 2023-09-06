@@ -1,1 +1,3 @@
-
+# Gavon Combe
+Hello, I'm Gavon Combe and I am a data Sciences and informatics: Computer science major here at Northwest. I Work two jobs one of them is at a movie theater and brick oven pizzaria where I make pizza primarily but sometimes work behind the cinema counter. The other is an IT intern at the Mosaic hospital in St. Joe. In my spare time I enjoy playing video games or longboarding. I used to longboard more but now that I'm busier I find that when I'm home I don't want to leave. I plan on going into the IT field when I graduate either continuing work in hospitals or going into a bigger company that isn't in the health field. <br> 
+![Gavon Combe](GavonC.jpg) 
