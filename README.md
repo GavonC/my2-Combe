@@ -11,3 +11,13 @@ I can do whatever I want in my bed be it sleep, scroll on my phone, or watch TV.
 - Chips
 
 ** [MyStats](MyStats.md) **
+
+***
+## Sports you should try
+This next section will be a table that expresses the importance of the sports I think you should try along with the amount of time you should spend on each a week. Any physical activity is important though sports give a purpose and some fun to doing physical activity. <br>
+|Sport | Reasoning | Hours per week|
+|----- | --------- | --------------|
+|Golf | Golf is a good way to move around and keep your joints healthy as every part of the sport is joint controll | 6 |
+|Swimming | Swimming allows you to get all of the benefits of running without the sweating | 7 | 
+|Weight lifting | This allows your muscles to continue growth and is good for the heart | 14|
+|Skateboarding | Gets you places faster than walking and gives a little more of a work out, it also helps with balance | 10 |
