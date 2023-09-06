@@ -21,3 +21,8 @@ This next section will be a table that expresses the importance of the sports I 
 |Swimming | Swimming allows you to get all of the benefits of running without the sweating | 7 | 
 |Weight lifting | This allows your muscles to continue growth and is good for the heart | 14|
 |Skateboarding | Gets you places faster than walking and gives a little more of a work out, it also helps with balance | 10 |
+
+***
+> “Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – *Dan Salomon, computer scientist*
+
+> “Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination.”- *Albert Einstein, physicist*
