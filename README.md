@@ -31,7 +31,7 @@ This next section will be a table that expresses the importance of the sports I 
 
 > I have a site which is primarily for mobile users but desktop too.<br> On Mobile Safari, using <input type="number"> works great because it brings up the numerical keyboard on input fields which should only contain numbers.<br?> In Chrome and Safari however, using number inputs displays spin buttons at the right side of the field, which looks like crap in my design. I really don't need the buttons, because they are useless when you need to write something like a 6-digit number anyway.<br> Is it possible to disable this with -webkit-appearance or some other CSS trick? I have tried without much luck. - pojo
 
-Link to question%20<https://stackoverflow.com/questions/3975769/disable-webkits-spin-buttons-on-input-type-number> 
+Link to question <https://stackoverflow.com/questions/3975769/disable-webkits-spin-buttons-on-input-type-number> 
 
 ~~~
 input[type=number]::webkit-inner-spin-button,
@@ -40,4 +40,4 @@ input[type=number]::webkit-outer-spin-button{
     margin: 0;
 }
 ~~~
-Link to answer%20<https://css-tricks.com/snippets/css/turn-off-number-input-spinners/>
+Link to answer <https://css-tricks.com/snippets/css/turn-off-number-input-spinners/>
